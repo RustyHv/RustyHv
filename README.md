@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey 👋 ¿Qué tal?
 
-<!--
-**RustyHv/RustyHv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soy Benjamín Hantscheruk, Ingeniero en Informática enfocado en Ciencia de Datos y Desarrollo Web.
 
-Here are some ideas to get you started:
+Me especializo en el ciclo completo de los datos (desde la extracción y limpieza de bases de datos, hasta el entrenamiento de modelos predictivos) y en la creación de interfaces web escalables orientadas a la experiencia de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologías y Herramientas:
+
+**Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Desarrollo Web, Automatización & Bases de Datos**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🚀 Proyectos Destacados:
+* 🌐 **[Praxis Digital](https://praxisdigital.cl/)**: Desarrollo web actualmente en producción, construido con React, TypeScript y Tailwind CSS.
+* 📊 **Pipeline ETL & Modelado Predictivo**: Experiencia en limpieza de ruido estructural y *fine-tuning* de algoritmos supervisados y no supervisados.
+
+### 📫 Contáctame:
+* 📧 Email: Benhantscheruk@gmail.com
+* 💼 LinkedIn: [Tu Enlace Aquí]
