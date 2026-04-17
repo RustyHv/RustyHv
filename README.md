@@ -22,5 +22,5 @@ Me especializo en el ciclo completo de los datos (desde la extracción y limpiez
 
 
 ### 📫 Contáctame:
-* 📧 Email: Benhantscheruk@gmail.com
-* 💼 LinkedIn: [Tu Enlace Aquí]
+- Email: Benhantscheruk@gmail.com
+- LinkedIn: www.linkedin.com/in/benjamin-hantscheruk
