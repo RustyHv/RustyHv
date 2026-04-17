@@ -1,6 +1,6 @@
-# Hey 👋 ¿Qué tal?
+# Hola, soy Benjamín Hantscheruk, 
 
-### Soy Benjamín Hantscheruk, Ingeniero en Informática enfocado en Ciencia de Datos y Desarrollo Web.
+### Ingeniero en Informática enfocado en Ciencia de Datos y Desarrollo Web.
 
 Me especializo en el ciclo completo de los datos (desde la extracción y limpieza de bases de datos, hasta el entrenamiento de modelos predictivos) y en la creación de interfaces web escalables orientadas a la experiencia de usuario.
 
@@ -20,9 +20,6 @@ Me especializo en el ciclo completo de los datos (desde la extracción y limpiez
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🚀 Proyectos Destacados:
-* 🌐 **[Praxis Digital](https://praxisdigital.cl/)**: Desarrollo web actualmente en producción, construido con React, TypeScript y Tailwind CSS.
-* 📊 **Pipeline ETL & Modelado Predictivo**: Experiencia en limpieza de ruido estructural y *fine-tuning* de algoritmos supervisados y no supervisados.
 
 ### 📫 Contáctame:
 * 📧 Email: Benhantscheruk@gmail.com
